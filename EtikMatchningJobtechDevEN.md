@@ -22,7 +22,7 @@ Frågan aktualiserades under 2018 då Amazons utveckling av ett maskininlärning
 
 Arbetsgivare söker ofta efter omdömeskunskap i relation till vad verksamheten behöver. Efterfrågad omdömeskunskap är oftast beroende av en viss verksamhetskontext, men de uttrycks sällan explicit i dataunderlaget. Därför är det svårt att fånga dem för datadrivna matchningsmetoder. Textanalysverktyg och datadrivna modeller utgår från att innebörden av ord kan hämtas direkt från den lingvistiska kontexten. De ignorerar därmed andra kontexter som är faktamässigt relevanta.
 
-Diskutera i vårt diskussionsforum! (= länk etikkategori i forumet som måste skapas)
+Diskutera i vårt diskussionsforum! (= länk etikkategori i forumet som måste skapas) 
 
 **Promiskuös användning av personinformation från rekrytering**
 
