@@ -20,7 +20,7 @@ Frågan aktualiserades under 2018 då Amazons utveckling av ett maskininlärning
 
 **Omdömeskunskap missgynnas särskilt av data-drivna metoder**
 
-Arbetsgivare söker ofta efter omdömeskunskap i relation till vad verksamheten behöver. Efterfrågad omdömeskunskap är oftast beroende av en viss verksamhetskontext, men de uttrycks sällan explicit i dataunderlaget. Därför är det svårt att fånga dem för datadrivna matchningsmetoder. Textanalysverktyg och datadrivna modeller utgår från att innebörden av ord kan hämtas direkt från den lingvistiska kontexten. De ignorerar därmed andra kontexter som är faktamässigt relevan
+Arbetsgivare söker ofta efter omdömeskunskap i relation till vad verksamheten behöver. Efterfrågad omdömeskunskap är oftast beroende av en viss verksamhetskontext, men de uttrycks sällan explicit i dataunderlaget. Därför är det svårt att fånga dem för datadrivna matchningsmetoder. Textanalysverktyg och datadrivna modeller utgår från att innebörden av ord kan hämtas direkt från den lingvistiska kontexten. De ignorerar därmed andra kontexter som är faktamässigt relevanta.
 
 **Promiskuös användning av personinformation från rekrytering**
 
@@ -38,7 +38,7 @@ Karriärkompetens, inklusive kunskap om arbetsmarknaden och hur rekrytering går
 
 Kopplat till algoritmisk transparens finns frågan om ansvarstagande, s.k.  _algorithmic accountability_.(3) Ett rekryteringssystem som genom maskininlärning successivt justerar vem som får vilket jobb, och vad som avgör vem som får vilket jobb, har sällan en enstaka felkritisk systemdel (single-point-of-failure). När något går fel blir det därför en fråga om att fördela ansvar över en mängd aktörer. Vem bär egentligen ansvaret när ett algoritmstyrt beslut resulterar i diskriminerande eller orättvisa konsekvenser?  Juridiken är ofta inte i fas med utvecklingen, vilket försvårar ansvarsutkrävandet. (4)
 
-[Diskutera i vårt diskussionsforum!](https://forum.jobtechdev.se/) 
+[Diskutera i vårt diskussionsforum!](https://forum.jobtechdev.se/t/digital-matchning-vad-kan-val-ga-fel) 
 
 
 
