@@ -2,7 +2,7 @@
 
 The project aims to highlight issues of ethics and sustainability related to digital matching.
 
-**Digital matching – what could go wrong?**
+**Digital matching – what could go possible wrong?**
 
 The discussion about ethical and unethical matching in the labour market is not new, but the emergence of digital matching algorithms introduces new perspectives. For the Swedish Public Employment Service, transparency about how these new technologies can be used is valuable. This forum aims to discuss potential improvements and risks.
 
@@ -18,14 +18,14 @@ This issue came to the fore in 2018, when it emerged that a machine learning-bas
 
 
 
-**Good judgment is particularly disadvantaged by data-driven methods**
+**Good judgment(phronesis) is particularly disadvantaged by data-driven methods**
 
 Employers often value good judgment in relation to what their business needs. The good judgment they seek is usually dependent on a particular business context, but the importance of this capacity to make discretionary decisions is rarely explicitly expressed in the data sets. Therefore, it is difficult to apply data-driven matching methods to finding candidates who possess the requisite good judgment. Text analysis tools and data-driven models assume that the meaning of words can be derived directly from their linguistic context. They thus ignore other contexts that are factually relevant.
 
 
 **The promiscuous use of personal information by recruiters**
 
-Today’s staffing industry collects a wealth of information about job seekers. In addition to CVs and cover letters, different types of personality, intelligence and appraisal tests are often used. Furthermore, it is common for information about the individual that can be found on the web to be used in the selection process.
+Today’s staffing industry collects a wealth of information about job seekers. In addition to CVs and cover letters, different types of personality, intelligence and appraisal tests are often used. Furthermore, it is common to use information about the individual found on the web in the selection process.
 
 The information that is stored is partially limited by the GDPR and by the applicant’s consent. However, questions have been raised as to whether this protection is sufficient, because the job seeker is in a vulnerable situation. By implication, the individual’s consent to the collection of such information is required in order for her/him to be able to get the job.
 
