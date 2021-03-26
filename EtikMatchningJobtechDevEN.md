@@ -1,54 +1,53 @@
-# **Etik och digital matchning**
+# **Ethics and digital matching**
 
-Projektet syftar till att lyfta frågor om etik och hållbarhet kopplat till digital matchning.
+The project aims to highlight issues of ethics and sustainability related to digital matching.
 
-**Digital matchning – vad kan väl gå fel?**
+**Digital matching – what could go possible wrong?**
 
-Diskussionen om etisk och oetisk matchning på arbetsmarknaden är inte ny men framväxten av digitala matchningsalgoritmer innebär dock nya perspektiv. För Arbetsförmedlingen är det värdefullt med transparens om hur dessa nya tekniker kan användas. Detta forum vill diskutera potentiella förbättringar och risker.
+The discussion about ethical and unethical matching in the labour market is not new, but the emergence of digital matching algorithms introduces new perspectives. For the Swedish Public Employment Service, transparency about how these new technologies can be used is valuable. This forum aims to discuss potential improvements and risks.
 
-Med matchning på arbetsmarknaden syftar vi på de processer där arbetssökande respektive arbetsgivare samlar in och värderar information om varandra för att hitta en överensstämmelse mellan jobberbjudande och potentiell arbetskraft som är tillräckligt bra för att fullborda en rekrytering.
+In the labour market, matching refers to processes in which job seekers and employers collect and evaluate information about each other in order to find a match between a job offer and potential manpower that is good enough to justify completing a recruitment.
 
-Matchningsprocessen kan genomföras helt datadrivet utan mänsklig inblandning, av människor helt utan digitalt stöd eller, som vanligast, genom ett samspel mellan människa och maskin￼. Ett vanligt missförstånd är att processen blir allt mer objektiv desto mer data och algoritmer som används. Vår utgångspunkt är att alla led i dessa processer kan leda till oetiska konsekvenser oavsett om de utförs av människor eller av digitala lösningar.
+The matching process can be carried out entirely by computers, without human intervention, by people working without digital support, or — most commonly — through a human-machine interaction. It is a common misconception that the objectivity of the process increases when more data and algorithms are used. Our starting point is that all stages of these processes can lead to unethical consequences, no matter whether they are carried out by humans or by digital solutions.
 
-**Samhällsbias och diskriminering**
+**Social bias and discrimination**
 
-För arbetsmarknaden är några av de viktigaste datakällorna platsannonser, CV-data och utbildningsbeskrivningar. Eftersom diskriminering förekommer i samhället kommer även en digital modell som tränas på sådana data riskera förstärka den diskrimineringen.
+For the labour market, some of the most important data sources are job advertisements, CV data and education/training descriptions. Because discrimination occurs in society, a digital model trained using these data also risks reinforcing that discrimination.
 
-Frågan aktualiserades under 2018 då Amazons utveckling av ett maskininlärningsbaserat verktyg för bedömning av kandidater visade sig systematiskt toppranka manliga sökande.(1) En annan studie av automatiserade annonsfördelningsverktyg upptäckte att könsbias medförde att verktyget oftare fördelade högavlönade jobberbjudanden till män än till kvinnor.(2)
+This issue came to the fore in 2018, when it emerged that a machine learning-based tool for assessing candidates developed by Amazon systematically ranked male applicants higher than female ones.(1) Another study of automated ad distribution tools found that gender bias led to the tool more frequently distributing high-paid job offers to men than to women.(2)
 
 
 
-**Omdömeskunskap missgynnas särskilt av data-drivna metoder**
+**Good judgment(phronesis) is particularly disadvantaged by data-driven methods**
 
-Arbetsgivare söker ofta efter omdömeskunskap i relation till vad verksamheten behöver. Efterfrågad omdömeskunskap är oftast beroende av en viss verksamhetskontext, men de uttrycks sällan explicit i dataunderlaget. Därför är det svårt att fånga dem för datadrivna matchningsmetoder. Textanalysverktyg och datadrivna modeller utgår från att innebörden av ord kan hämtas direkt från den lingvistiska kontexten. De ignorerar därmed andra kontexter som är faktamässigt relevanta.
+Employers often value good judgment in relation to what their business needs. The good judgment they seek is usually dependent on a particular business context, but the importance of this capacity to make discretionary decisions is rarely explicitly expressed in the data sets. Therefore, it is difficult to apply data-driven matching methods to finding candidates who possess the requisite good judgment. Text analysis tools and data-driven models assume that the meaning of words can be derived directly from their linguistic context. They thus ignore other contexts that are factually relevant.
 
-Diskutera i vårt diskussionsforum! (= länk etikkategori i forumet som måste skapas) 
 
-**Promiskuös användning av personinformation från rekrytering**
+**The promiscuous use of personal information by recruiters**
 
-Bemanningsbranschen samlar idag in mängder av information om arbetssökande. Förutom CV och personligt brev används ofta olika typer av personlighets-, intelligens- och värderingstester. Dessutom är det vanligt att information om individen från webben används i urvalsprocessen.
+Today’s staffing industry collects a wealth of information about job seekers. In addition to CVs and cover letters, different types of personality, intelligence and appraisal tests are often used. Furthermore, it is common to use information about the individual found on the web in the selection process.
 
-Informationen som sparas begränsas delvis av GDPR och genom den sökandes samtycke. Frågor har dock väckts om detta skydd är tillräckligt eftersom den arbetssökande befinner sig i en utsatt situation. Underförstått krävs ett samtycke från individen för att hen ska ha möjlighet att få jobbet.
+The information that is stored is partially limited by the GDPR and by the applicant’s consent. However, questions have been raised as to whether this protection is sufficient, because the job seeker is in a vulnerable situation. By implication, the individual’s consent to the collection of such information is required in order for her/him to be able to get the job.
 
-Diskutera i vårt diskussionsforum! (= länk till etikkategori forumet – som måste skapas)
 
-**Karriärkompetens och digitalt utanförskap**
 
-Karriärkompetens, inklusive kunskap om arbetsmarknaden och hur rekrytering går till, är avgörande för att både hitta ett lämpligt jobb och lyckas bli anställd. Rekryteringen förändras av ny digital teknik: matchningsalgoritmer, AI, VR, sociala medier, rekryteringssystem, mm påverkar i allt större grad rekryteringen. Det innebär att kunskap om hur dessa tekniker fungerar blir viktig för att lyckas i jobbsökandet. Men möjligheten att få tillgång till relevant kunskap försvåras delvis av problemen med det som brukar benämnas algoritmisk transparens. Idag saknar i regel de flesta rekryteringssajter öppen information om hur deras digitala matchningsmetoder går till.
+**Career skills and digital exclusion**
 
-Diskutera i vårt diskussionsforum! (= länk etikkategori i forumet som måste skapas)
+Career skills, including knowledge of the labour market and how recruitment is carried out, are crucial both to finding a suitable job and getting hired. New digital technologies are transforming the recruitment process; matching algorithms, AI, VR, social media, recruitment systems, etc. are increasingly affecting recruitment. This means that knowledge of how these technologies work is important to success in the job search. However, the possibility of accessing relevant knowledge is partly hampered by the problems of what is commonly referred to as algorithmic transparency. Today, most recruitment sites generally lack open information about how their digital matching methods work.
 
-**Otydligt ansvar när data-drivna modeller går fel**
 
-Kopplat till algoritmisk transparens finns frågan om ansvarstagande, s.k.  _algorithmic accountability_.(3) Ett rekryteringssystem som genom maskininlärning successivt justerar vem som får vilket jobb, och vad som avgör vem som får vilket jobb, har sällan en enstaka felkritisk systemdel (single-point-of-failure). När något går fel blir det därför en fråga om att fördela ansvar över en mängd aktörer. Vem bär egentligen ansvaret när ett algoritmstyrt beslut resulterar i diskriminerande eller orättvisa konsekvenser?  Juridiken är ofta inte i fas med utvecklingen, vilket försvårar ansvarsutkrävandet. (4)
 
-Diskutera i vårt diskussionsforum! (= länk etikkategori i forumet som måste skapas)
+**Unclear responsibility when data-driven models go wrong**
 
+Closely tied to algorithmic transparency is the issue of accountability, so-called algorithmic accountability.(3) A recruitment system that applies machine learning to gradually adjust who gets which job, and what determines who gets which job, rarely has a single-point-of-failure. Therefore, when something goes wrong, responsibility must be distributed among a variety of actors. Who is really responsible when an algorithm-driven decision results in discriminatory or unfair consequences? The law is often not in line with developments, further complicating the issue of accountability. (4)
+
+[Discuss in our discussion forum!](https://forum.jobtechdev.se/t/digital-matchning-vad-kan-val-ga-fel/344)
 
 
 
 
-**Referenser**
+
+**References**
 
 1. [https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scrapssecret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G](https://www.reuters.com/article/us-amazon-com-jobs-automation-insight/amazon-scrapssecret-ai-recruiting-tool-that-showed-bias-against-women-idUSKCN1MK08G)
 2. Datta, A., Tschantz, M.C., Datta, A. (2015). Automated Experiments on Ad Privacy Settings – A Tale of Opacity, Choice, and Discrimination. Proceedings on Privacy Enhancing Technologies. 1: 92–112, DOI: 10.1515/popets-2015-0007.
