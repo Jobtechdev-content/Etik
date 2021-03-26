@@ -2,7 +2,7 @@
 
 The project aims to highlight issues of ethics and sustainability related to digital matching.
 
-**Digital matching – what could go possible wrong?**
+**Digital matching – what could go possibly wrong?**
 
 The discussion about ethical and unethical matching in the labour market is not new, but the emergence of digital matching algorithms introduces new perspectives. For the Swedish Public Employment Service, transparency about how these new technologies can be used is valuable. This forum aims to discuss potential improvements and risks.
 
